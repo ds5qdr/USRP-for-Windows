@@ -27,29 +27,4 @@ EMPTY : 843   :        :
 EMPTY : 844   :        : 
 STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
 EMPTY : 3100  :        : 
-STDBY : 45021 :        : DS5DYN 
-EMPTY : 45022 :        : 
-EMPTY : 45023 :        : 
-EMPTY : 45024 :        : 
-EMPTY : 45025 :        : 
-EMPTY : 45026 :        : 
-EMPTY : 45027 :        : 
-EMPTY : 45028 :        : 
-EMPTY : 45029 :        : 
-EMPTY : 45030 :        : 
-EMPTY : 45031 :        : 
-EMPTY : 45032 :        : 
-EMPTY : 45033 :        : 
-EMPTY : 45034 :        : 
-EMPTY : 45035 :        : 
-EMPTY : 45036 :        : 
-EMPTY : 45037 :        : 
-EMPTY : 45038 :        : 
-EMPTY : 45039 :        : 
-EMPTY : 518   :        : 
-EMPTY : 815   :        : 
-EMPTY : 842   :        : 
-EMPTY : 843   :        : 
-EMPTY : 844   :        : 
-STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
-EMPTY : 3100  :        : 
+
