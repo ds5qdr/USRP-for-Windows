@@ -18,4 +18,16 @@ https://ds5qdr-dv.tistory.com/214
 2021.03.24 V2.00 : DVSwitch Web 버젼 hUC All Mode 지원 (STFU, Intercom, ASL Mode) 
 2021.05.01 V2.20 : RPi 버젼 기능 추가로 Windows 버젼 같이 업그레이드 함
 
+
+설치 방법
+아래 사이트에서 다운로드 받은 후 압축을 풀고
+원하는 폴드로 복사 한 후
+USRP.exe 파일을 실행하면 됩니다
+github.com/ds5qdr/USRP-for-Windows.git
+ 
+
+압축 파일 내 USRP.exe 파일로 인해 바이러스 경고 혹은 보안 경고가 발생할 경우가 있는데 
+바이러스 안전 파일이니 계속 진행하여 다운로드 받으시기 바랍니다
+
+
 DS5QDR Lee, Heonmin
