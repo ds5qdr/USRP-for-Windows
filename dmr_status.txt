@@ -1,11 +1,11 @@
-UPDATE_CK : 2021-03-28 20:34:55 > 1616931295
-UPDATE_OK : 2021-03-28 20:35:05 > 1616931305
-STDBY : 450   :        : DS5DYN HL5JKL DS1GCO 
-STDBY : 45021 :        : DS5DYN 
+UPDATE_CK : 2021-05-01 00:25:45 > 1619796345
+UPDATE_OK : 2021-05-01 00:16:09 > 1619795769
+ONAIR : 450   : DS4OVB : 
+EMPTY : 45021 :        : 
 EMPTY : 45022 :        : 
 EMPTY : 45023 :        : 
 EMPTY : 45024 :        : 
-EMPTY : 45025 :        : 
+ONAIR : 45025 : DS4OVB : 
 EMPTY : 45026 :        : 
 EMPTY : 45027 :        : 
 EMPTY : 45028 :        : 
@@ -25,13 +25,13 @@ EMPTY : 815   :        :
 EMPTY : 842   :        : 
 EMPTY : 843   :        : 
 EMPTY : 844   :        : 
-STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
-EMPTY : 3100  :        : 
-STDBY : 45021 :        : DS5DYN 
+STDBY : 91    :        : WA0SXV M7PHB  
+ONAIR : 3100  : KN4ZEI : 
+EMPTY : 45021 :        : 
 EMPTY : 45022 :        : 
 EMPTY : 45023 :        : 
 EMPTY : 45024 :        : 
-EMPTY : 45025 :        : 
+ONAIR : 45025 : DS4OVB : 
 EMPTY : 45026 :        : 
 EMPTY : 45027 :        : 
 EMPTY : 45028 :        : 
@@ -47,9 +47,12 @@ EMPTY : 45037 :        :
 EMPTY : 45038 :        : 
 EMPTY : 45039 :        : 
 EMPTY : 518   :        : 
-EMPTY : 815   :        : 
 EMPTY : 842   :        : 
 EMPTY : 843   :        : 
 EMPTY : 844   :        : 
-STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
-EMPTY : 3100  :        : 
+STDBY : 91    :        : WA0SXV M7PHB  
+ONAIR : 3100  : KN4ZEI : 
+EMPTY : 45000 :        : 
+EMPTY : 10200 :        : 
+EMPTY : 65000 :        : 
+EMPTY : 10    :        : 
