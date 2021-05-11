@@ -2,7 +2,9 @@
 DVSwitch USRP Client for Windows
 
 This Program is modified and compiled pyUC.py (DVSwitch Client USRP) by DS5QDR 
+
 https://github.com/DVSwitch/USRP_Client
+
 
 
 사용설명서
@@ -28,14 +30,18 @@ https://ds5qdr-dv.tistory.com/214
 
 설치 방법
 아래 사이트에서 다운로드 받은 후 압축을 풀고
+
 원하는 폴드로 복사 한 후
+
 USRP.exe 파일을 실행하면 됩니다
 
 https://github.com/ds5qdr/USRP-for-Windows.git
  
 
 압축 파일 내 USRP.exe 파일로 인해 바이러스 경고 혹은 보안 경고가 발생할 경우가 있는데 
+
 바이러스 안전 파일이니 계속 진행하여 다운로드 받으시기 바랍니다
+
 
 
 DS5QDR Lee, Heonmin
