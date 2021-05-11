@@ -25,6 +25,7 @@ EMPTY : 815   :        :
 EMPTY : 842   :        : 
 EMPTY : 843   :        : 
 EMPTY : 844   :        : 
+<<<<<<< HEAD
 STDBY : 91    :        : WA0SXV M7PHB  
 ONAIR : 3100  : KN4ZEI : 
 EMPTY : 45021 :        : 
@@ -56,3 +57,8 @@ EMPTY : 45000 :        :
 EMPTY : 10200 :        : 
 EMPTY : 65000 :        : 
 EMPTY : 10    :        : 
+=======
+STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
+EMPTY : 3100  :        : 
+
+>>>>>>> 135e2eec72bd5f2838a3a90f9046eae2818a8500
