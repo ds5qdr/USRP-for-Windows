@@ -1,10 +1,10 @@
 DVSwitch :  : 11:11:37 : 1620785497
-Monitor :   : 11-13-17 : 1620785597
+Monitor :   : 11-14-08 : 1620785648
 STDBY : 450   :        : DS5KIH 
 EMPTY : 45021 :        : 
 EMPTY : 45022 :        : 
 EMPTY : 45023 :        : 
-ONAIR : 45024 : DS1HMG : DS1IWR HL2IRA 
+STDBY : 45024 :        : DS1IWR DS1HMG HL2IRA 
 EMPTY : 45025 :        : 
 EMPTY : 45026 :        : 
 EMPTY : 45027 :        : 
@@ -20,6 +20,6 @@ EMPTY : 45036 :        :
 EMPTY : 45037 :        : 
 EMPTY : 45038 :        : 
 EMPTY : 45039 :        : 
-STDBY : 91    :        : KF4ZUN TB2CVB KO4BGJ KO4CUQ N6APG  N5LCP  KD2VRL KE8OTG KN4TAD TG9ADM 
-STDBY : 3100  :        : AB2OQ  KI4HQ  KD2RPP KN4ZFI K9PMA  N3AKB  WA6WV  KN4TAD 
+STDBY : 91    :        : KO4TCL KF4ZUN TB2CVB KO4BGJ KO4CUQ N6APG  N5LCP  KD2VRL KE8OTG KN4TAD 
+STDBY : 3100  :        : KE8OTG AB2OQ  KI4HQ  KD2RPP WA6WV  KN4ZFI K9PMA  N3AKB  KN4TAD 
 Copyright :   :        : Brandmeister DMR Monitor V1.1 by VK2CYO & modified by DS5QDR
