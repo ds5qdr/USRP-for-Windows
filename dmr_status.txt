@@ -1,11 +1,11 @@
-UPDATE_CK : 2021-05-01 00:47:18 > 1619797638
-UPDATE_OK : 2021-05-01 00:16:09 > 1619795769
-ONAIR : 450   : DS4OVB : 
+DVSwitch :  : 11:11:37 : 1620785497
+Monitor :   : 11-13-05 : 1620785585
+STDBY : 450   :        : DS5KIH 
 EMPTY : 45021 :        : 
 EMPTY : 45022 :        : 
 EMPTY : 45023 :        : 
-EMPTY : 45024 :        : 
-ONAIR : 45025 : DS4OVB : 
+ONAIR : 45024 : DS1HMG : DS1IWR HL2IRA 
+EMPTY : 45025 :        : 
 EMPTY : 45026 :        : 
 EMPTY : 45027 :        : 
 EMPTY : 45028 :        : 
@@ -20,45 +20,6 @@ EMPTY : 45036 :        :
 EMPTY : 45037 :        : 
 EMPTY : 45038 :        : 
 EMPTY : 45039 :        : 
-EMPTY : 518   :        : 
-EMPTY : 815   :        : 
-EMPTY : 842   :        : 
-EMPTY : 843   :        : 
-EMPTY : 844   :        : 
-<<<<<<< HEAD
-STDBY : 91    :        : WA0SXV M7PHB  
-ONAIR : 3100  : KN4ZEI : 
-EMPTY : 45021 :        : 
-EMPTY : 45022 :        : 
-EMPTY : 45023 :        : 
-EMPTY : 45024 :        : 
-ONAIR : 45025 : DS4OVB : 
-EMPTY : 45026 :        : 
-EMPTY : 45027 :        : 
-EMPTY : 45028 :        : 
-EMPTY : 45029 :        : 
-EMPTY : 45030 :        : 
-EMPTY : 45031 :        : 
-EMPTY : 45032 :        : 
-EMPTY : 45033 :        : 
-EMPTY : 45034 :        : 
-EMPTY : 45035 :        : 
-EMPTY : 45036 :        : 
-EMPTY : 45037 :        : 
-EMPTY : 45038 :        : 
-EMPTY : 45039 :        : 
-EMPTY : 518   :        : 
-EMPTY : 842   :        : 
-EMPTY : 843   :        : 
-EMPTY : 844   :        : 
-STDBY : 91    :        : WA0SXV M7PHB  
-ONAIR : 3100  : KN4ZEI : 
-EMPTY : 45000 :        : 
-EMPTY : 10200 :        : 
-EMPTY : 65000 :        : 
-EMPTY : 10    :        : 
-=======
-STDBY : 91    :        : NP4P   TA1MHU XQ6AK  M7JXW  IW8BZE KS5V   MM0KKF DK1TBL S52JAN VK2BG  
-EMPTY : 3100  :        : 
-
->>>>>>> 135e2eec72bd5f2838a3a90f9046eae2818a8500
+STDBY : 91    :        : KF4ZUN TB2CVB KO4BGJ KO4CUQ N6APG  N5LCP  KE8OTG KN4TAD TG9ADM KD0LQD 
+ONAIR : 3100  : AB2OQ  : KI4HQ  KD2RPP KN4ZFI K9PMA  N3AKB  WA6WV  KN4TAD 
+Copyright :   :        : Brandmeister DMR Monitor V1.1 by VK2CYO & modified by DS5QDR
