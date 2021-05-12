@@ -26,6 +26,8 @@ https://ds5qdr-dv.tistory.com/214
 
 2021.05.01 V2.20 : RPi 버젼 기능 추가로 Windows 버젼 같이 업그레이드 함
 
+2021.05.12 V2.30 : Remote DVSwitch Control 기능 추가 외
+
 
 
 
