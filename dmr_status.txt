@@ -1,25 +1,25 @@
-DVSwitch :  : 11:11:37 : 1620785497
-Monitor :   : 12-01-17 : 1620788477
-STDBY : 450   :        : DS5FTS DS5QDR        KI6N   HL2IRA HL5JKL DS5KIH DS5SPV 
-STDBY : 45021 :        : DS5FTS HL2IRA 
-STDBY : 45022 :        : HL2IRA 
-STDBY : 45023 :        : HL2IRA 
-ONAIR : 45024 : DS1IWR : DS1KBF DS1HMG HL2IRA 
-EMPTY : 45025 :        : 
-EMPTY : 45026 :        : 
-EMPTY : 45027 :        : 
-EMPTY : 45028 :        : 
-EMPTY : 45029 :        : 
-EMPTY : 45030 :        : 
-EMPTY : 45031 :        : 
-EMPTY : 45032 :        : 
-EMPTY : 45033 :        : 
-EMPTY : 45034 :        : 
-EMPTY : 45035 :        : 
-EMPTY : 45036 :        : 
-EMPTY : 45037 :        : 
-EMPTY : 45038 :        : 
-EMPTY : 45039 :        : 
-STDBY : 91    :        : VK4PY  KD9JNE 9H1GY  AC5QX  VR2UNG N9WCX  PU1KSU KJ7QMF KF4ZUN W1CMX  
-STDBY : 3100  :        : W5MIQ  KB9TZQ KE0YLL KB3HAK KD9OZG KD7YUW N2UBI  N6RDT  K1GGS  KB5BUN 
-Copyright :   :        : Brandmeister DMR Monitor V1.1 by VK2CYO & modified by DS5QDR
+DVSwitch :  : 21:48:28 : 1621946908 : Build No. 2021-05-25-10-00-00
+Monitor :   : 21-49-18 : 1621946958 : 2021.05.15. 00:00
+EMPTY : 450   :        :  : 
+EMPTY : 45021 :        :  : 
+EMPTY : 45022 :        :  : 
+EMPTY : 45023 :        :  : 
+EMPTY : 45024 :        :  : 
+EMPTY : 45025 :        :  : 
+EMPTY : 45026 :        :  : 
+EMPTY : 45027 :        :  : 
+EMPTY : 45028 :        :  : 
+EMPTY : 45029 :        :  : 
+EMPTY : 45030 :        :  : 
+EMPTY : 45031 :        :  : 
+EMPTY : 45032 :        :  : 
+EMPTY : 45033 :        :  : 
+EMPTY : 45034 :        :  : 
+EMPTY : 45035 :        :  : 
+STDBY : 45036 :        : DS3FXU DS5NMP DS1QPP DS4OVT  : 
+EMPTY : 45037 :        :  : 
+EMPTY : 45038 :        :  : 
+EMPTY : 45039 :        :  : 
+ONAIR : 91    : W5ZT   : S52JAN G0KHY  KC3ARL KB3UUL YD3BUP  : 
+STDBY : 3100  :        : K3HAX  WA2NYY KC3QIJ  : 
+Copyright :   :        : Brandmeister DMR Monitor V1.1 by VK2CYO : & modified by DS5QDR 
