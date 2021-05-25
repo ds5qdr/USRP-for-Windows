@@ -1,5 +1,5 @@
 DVSwitch :  : 21:48:28 : 1621946908 : Build No. 2021-05-25-10-00-00
-Monitor :   : 21-49-18 : 1621946958 : 2021.05.15. 00:00
+Monitor :   : 21-49-52 : 1621946992 : 2021.05.15. 00:00
 EMPTY : 450   :        :  : 
 EMPTY : 45021 :        :  : 
 EMPTY : 45022 :        :  : 
@@ -16,10 +16,10 @@ EMPTY : 45032 :        :  :
 EMPTY : 45033 :        :  : 
 EMPTY : 45034 :        :  : 
 EMPTY : 45035 :        :  : 
-STDBY : 45036 :        : DS3FXU DS5NMP DS1QPP DS4OVT  : 
+STDBY : 45036 :        : DS3FXU DS1QPP DS5NMP DS4OVT  : 
 EMPTY : 45037 :        :  : 
 EMPTY : 45038 :        :  : 
 EMPTY : 45039 :        :  : 
-ONAIR : 91    : W5ZT   : S52JAN G0KHY  KC3ARL KB3UUL YD3BUP  : 
-STDBY : 3100  :        : K3HAX  WA2NYY KC3QIJ  : 
+STDBY : 91    :        : KN4RNO VK2XB  S52JAN G0KHY  BA7LRT KC3ARL KB3UUL YD3BUP  : 
+STDBY : 3100  :        : KC3QIJ K3HAX  WA2NYY  : 
 Copyright :   :        : Brandmeister DMR Monitor V1.1 by VK2CYO : & modified by DS5QDR 
