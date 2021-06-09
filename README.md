@@ -28,6 +28,8 @@ https://ds5qdr-dv.tistory.com/214
 
 2021.05.25 V2.40 : Remote DVSwitch Control, 다운로드  기능 추가 외
 
+2021.06.06 V2.50 : dmr_status.exe를 USRP.exe 파일에 통합하였음
+
 
 
 
