@@ -1,5 +1,5 @@
 # USRP-for-Windows
-DVSwitch USRP Client for Windows
+DVSwitch USRP Client for Windows V2.54
 
 This Program is modified and compiled pyUC.py (DVSwitch Client USRP) by DS5QDR 
 
