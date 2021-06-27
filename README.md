@@ -56,4 +56,4 @@ https://github.com/ds5qdr/USRP-for-Windows.git
 
 DS5QDR Lee, Heonmin
 
-![image](https://user-images.githubusercontent.com/64110724/117847601-75cf1200-b2bd-11eb-879e-765f00075485.png)
+![image](https://user-images.githubusercontent.com/64110724/123551693-d4891600-d7ad-11eb-9281-7e25821790ea.png)
