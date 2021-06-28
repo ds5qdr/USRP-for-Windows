@@ -6,7 +6,7 @@ DVSwitch USRP Client modified version 2.54
 - unzip
 - edit usrp.ini
 - run USRP.exe
-- for more information, click https://ds5qdr-dv.tistory.com/214
+- for more information, click https://ds5qdr-dv.tistory.com/224
 
 
 # History
