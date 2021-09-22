@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/64110724/134375327-b36d3c95-b887-4ac5-82a7-c5c620e5acfe.png)
 
 
-# usrp.ini has changed since V2.95 at [SERVER] section as below
+# [SERVER] section of usrp.ini has changed since V2.95 at as below
 - [SERVER] #server_name   : callsign :dmrid   : repeaterid  DDNS or IP address : USRP_rx/txport : usrp2dvs_port
 - DVS_00 = DefaultDVS     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
 - DVS_01 = DVS_SAMPLE     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
