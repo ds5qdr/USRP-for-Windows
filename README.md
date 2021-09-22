@@ -3,6 +3,7 @@
 - Updated Date : 2021.09.23
 - Programmed by DS5QDR Lee, Hoenmin
 
+
 # How to setup
 - download USRP-for-Windows-main.zip
 - unzip
@@ -42,15 +43,10 @@
 
 
 # History
-- 2020.12.16 V0.95 : pyUC.py compiled to pyUC.exe
-- 2021.01.04 V1.00 : USRP Client Released for Windows
-- 2021.01.21 V1.65 : change resolution to 800x480
-- 2021.02.01 V1.80 : add Tab of DMR TG Status
-- 2021.02.15 V1.90 : add NXDN, P25, YSF Mode 
+- 2021.09.23 V2.95 : [SERVER] section of usrp.ini has changed since V2.95 at as below
 - 2021.03.24 V2.00 : support DVSwitch hUC (STFU, Intercom, ASL Mode) 
-- 2021.05.01 V2.20 : release RPi version
-- 2021.06.06 V2.50 : upgraded USRP.exe 
-- 2021.09.23 V2.95 : Changed usrp.ini file's structure. simplified
+- 2021.01.04 V1.00 : USRP Client Released for Windows
+- 2020.12.16 V0.95 : pyUC.py compiled to pyUC.exe
 
 
 Thanks,
