@@ -1,5 +1,7 @@
 # USRP-for-Windows
-DVSwitch USRP Client modified version 2.54
+- Version : V2.95
+- Updated Date : 2021.09.23
+- Programmed by DS5QDR Lee, Hoenmin
 
 # How to setup
 - download USRP-for-Windows-main.zip
@@ -8,17 +10,20 @@ DVSwitch USRP Client modified version 2.54
 - run USRP.exe
 - for more information, click https://ds5qdr-dv.tistory.com/224
 
+
 # how to edit usrp.ini
 - see : http://dvswitch.org/DVSwitch_install.pdf
 - Appendix B: pyUC (python USRP Client)
 ![image](https://user-images.githubusercontent.com/64110724/134375327-b36d3c95-b887-4ac5-82a7-c5c620e5acfe.png)
 
-# The file structure of usrp.ini has changed since V2.95
+
+# The file structure of usrp.ini has changed since V2.95 at [SERVER] section as below
 - [SERVER] #server_name   : callsign :dmrid   : repeaterid  DDNS or IP address : USRP_rx/txport : usrp2dvs_port
 - DVS_00 = DefaultDVS     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
 - DVS_01 = DVS_SAMPLE     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
 - DVS_NM = 4500495 : DS5QDR : Heonmin : Lee : Gimhae : KyungSang Nam-Do : Korea Republic of :
 - If you use the version before V2.95, Please reconfigure the usrp.ini file.
+
 
 # usrp2dvs
 - install usrp2dvs by USRP program
@@ -35,6 +40,7 @@ DVSwitch USRP Client modified version 2.54
 - sudo chmod +x /opt/usrp2dvs/rc.local
 - sudo mv /opt/usrp2dvs/rc.local /etc
 
+
 # History
 - 2020.12.16 V0.95 : pyUC.py compiled to pyUC.exe
 - 2021.01.04 V1.00 : USRP Client Released for Windows
@@ -47,9 +53,9 @@ DVSwitch USRP Client modified version 2.54
 - 2021.09.23 V2.95 : Changed usrp.ini file's structure. simplified
 
 
-
 Thanks,
 
 DS5QDR Lee, Heonmin
 
-![image](https://user-images.githubusercontent.com/64110724/123551693-d4891600-d7ad-11eb-9281-7e25821790ea.png)
+![image](https://user-images.githubusercontent.com/64110724/134378644-46cd279f-4018-4164-9b87-ce7e21d3966a.png)
+
