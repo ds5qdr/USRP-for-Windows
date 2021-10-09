@@ -1,6 +1,6 @@
 # USRP-for-Windows
-- Version : V2.971
-- Updated Date : 2021.09.27
+- Version : V3.0
+- Updated Date : 2021.10.09
 - Programmed by DS5QDR Lee, Hoenmin
 
 
@@ -26,7 +26,7 @@
 - If you use the version before V2.95, Please reconfigure the usrp.ini file.
 
 
-# usrp2dvs
+# usrp2dvs (Option)
 - install usrp2dvs by USRP program
 - If you want to use full fucntion you have to install usrp2dvs program at your DVSwitch server
 - to install, click 'Server' tab
@@ -43,6 +43,7 @@
 
 
 # History
+- 2021.10.09 V3.00 : [MACRO] command added to control DVSwitch Server
 - 2021.09.23 V2.95 : [SERVER] section of usrp.ini has changed since V2.95 at as below
 - 2021.03.24 V2.00 : support DVSwitch hUC (STFU, Intercom, ASL Mode) 
 - 2021.01.04 V1.00 : USRP Client Released for Windows
