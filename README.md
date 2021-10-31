@@ -1,10 +1,10 @@
 # USRP-for-Windows
-- Version : V3.05
-- Updated Date : 2021.10.28
+- Version : V3.10
+- Updated Date : 2021.10.31
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
-- 2021.10.28 V3.03 : fixed QRZ image download error
+- 2021.10.31 V3.10 : fixed QRZ image download error and simplified
 - 2021.10.09 V3.00 : [MACRO] command added to control DVSwitch Server
 - 2021.09.23 V2.95 : [SERVER] section of usrp.ini has changed since V2.95 at as below
 - 2021.03.24 V2.00 : support DVSwitch hUC (STFU, Intercom, ASL Mode) 
