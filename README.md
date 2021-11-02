@@ -23,14 +23,6 @@
 - Appendix B: pyUC (python USRP Client)
 ![image](https://user-images.githubusercontent.com/64110724/134375327-b36d3c95-b887-4ac5-82a7-c5c620e5acfe.png)
 
-# [SERVER] section of usrp.ini has changed since V2.95 at as below
-- [SERVER] #server_name   : callsign :dmrid   : repeaterid  DDNS or IP address : USRP_rx/txport : usrp2dvs_port
-- DVS_00 = DefaultDVS     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
-- DVS_01 = DVS_SAMPLE     : DS5QDR  : 4500495 : 450049599 : ds5qdr-dvs.iptime.org : 59595 : 61301 : 
-- DVS_NM = 4500495 : DS5QDR : Heonmin : Lee : Gimhae : KyungSang Nam-Do : Korea Republic of :
-- If you use the version before V2.95, Please reconfigure the usrp.ini file.
-
-Thanks,
 
 # DS5QDR Lee, Heonmin
 ![image](https://user-images.githubusercontent.com/64110724/139769603-f42fc40e-5d56-472e-b3df-74af970e5c04.png)
