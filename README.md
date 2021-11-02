@@ -30,25 +30,12 @@
 - DVS_NM = 4500495 : DS5QDR : Heonmin : Lee : Gimhae : KyungSang Nam-Do : Korea Republic of :
 - If you use the version before V2.95, Please reconfigure the usrp.ini file.
 
-# usrp2dvs (Option)
-- install usrp2dvs by USRP program
-- If you want to use full fucntion you have to install usrp2dvs program at your DVSwitch server
-- to install, click 'Server' tab
-- enter DVSwitch IP address, login ID and PW and then click 'install'
-- After install, you must open portforwad UDP Port at your internet router.
-- UDP Port is Analog_Bridge.ini [USRP] section tx/rxPort + 1 ex) tx/rxPort = 50000 UDP Port is 50001
--------------------------------------------------
-- Manual installation at DVSwitch Server
-- connect to your DVSwitch
-- sudo git clone https://github.com/ds5qdr/USRP2DVS /opt/usrp2dvs
-- sudo chmod +x /opt/usrp2dvs/usrp2dvs
-- sudo chmod +x /opt/usrp2dvs/rc.local
-- sudo mv /opt/usrp2dvs/rc.local /etc
-
-
 Thanks,
 
-DS5QDR Lee, Heonmin
-
-![image](https://user-images.githubusercontent.com/64110724/134378644-46cd279f-4018-4164-9b87-ce7e21d3966a.png)
+# DS5QDR Lee, Heonmin
+![image](https://user-images.githubusercontent.com/64110724/139769603-f42fc40e-5d56-472e-b3df-74af970e5c04.png)
+![image](https://user-images.githubusercontent.com/64110724/139767788-b128b603-d6a0-4282-9933-1aa0a8bc4c06.png)
+![image](https://user-images.githubusercontent.com/64110724/139768191-90c9b12e-06d7-402c-ade0-124f866f540c.png)
+![image](https://user-images.githubusercontent.com/64110724/139768448-920d5901-2600-4dba-8311-ebd70a48f25a.png)
+![image](https://user-images.githubusercontent.com/64110724/139768977-3315f195-a05b-4229-be9a-9b06479808e8.png)
 
