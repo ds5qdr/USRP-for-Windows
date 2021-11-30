@@ -1,10 +1,10 @@
 # USRP-for-Windows
-- Version : V3.18
-- Updated Date : 2021.11.28
+- Version : V3.20
+- Updated Date : 2021.11.29
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
-- 2021.11.10 V3.14 : bug patched to support LH & TGs tab function for not a Korean DMRIDs
+- 2021.11.29 V3.20 : one click auto upgrade USRP.exe for Windows version
 - 2021.10.31 V3.10 : fixed QRZ image download error and simplified
 - 2021.10.09 V3.00 : [MACRO] command added to control DVSwitch Server
 - 2021.09.23 V2.95 : [SERVER] section of usrp.ini has changed since V2.95 at as below
