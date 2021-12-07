@@ -1,6 +1,6 @@
 # USRP-for-Windows
-- Version : V3.22
-- Updated Date : 2021.12.04
+- Version : V3.24
+- Updated Date : 2021.12.08
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
