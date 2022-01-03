@@ -1,10 +1,10 @@
 # USRP-for-Windows
-- Version : V3.38
+- Version : V3.40
 - Updated Date : 2022.01.01
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
-- 2022.01.01 V3.38 : added LOG BOOK if click callsign at main screen
+- 2022.01.01 V3.40 : added LOG BOOK, click callsign at main screen -> ADD/DEL/ALL -> save to usrp_logbook.json
 - 2021.12.16 V3.30 : added 5 option choice and fixed bugs
 - 2021.11.29 V3.20 : one click auto upgrade USRP.exe for Windows version
 - 2021.10.31 V3.10 : fixed QRZ image download error and simplified
