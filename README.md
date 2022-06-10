@@ -1,6 +1,6 @@
 # USRP-for-Windows with Logbook
-- Version : V3.63
-- Updated Date : 2022.06.09
+- Version : V3.64
+- Updated Date : 2022.06.10
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
