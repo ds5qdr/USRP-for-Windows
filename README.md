@@ -1,4 +1,4 @@
-# USRP-for-Windows with Logbook
+# USRP-for-Windows 10 or 11 with Logbook
 - Version : V3.656
 - Updated Date : 2022.07.01
 - Programmed by DS5QDR Lee, Hoenmin
