@@ -4,7 +4,7 @@
 - Programmed by DS5QDR Lee, Hoenmin
 
 # History
-- 2022.11.07 V3.70 : Updated for Windows 10 and 11 
+- 2022.11.07 V3.70 : upgraded some fucntions and fixed bugs
 - 2022.01.01 V3.40 : added LOG BOOK, click callsign at main screen -> ADD/DEL/ALL -> save to usrp_logbook.json
 - 2021.12.16 V3.30 : added 5 option choice and fixed bugs
 - 2021.11.29 V3.20 : one click auto upgrade USRP.exe for Windows version
