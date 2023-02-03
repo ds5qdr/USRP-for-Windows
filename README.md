@@ -1,9 +1,11 @@
 # USRP-for-Windows 10 or 11 with Logbook
-- Version : V3.74
-- Updated Date : 2022.11.18
+- Version : V3.90
+- Updated Date : 2023.01.30
 - Programmed by DS5QDR Lee, Hoenmin
 
+
 # History
+- 2023.01.30 V3.90 : Simplify USRP Client UI
 - 2022.11.07 V3.70 : upgraded some fucntions and fixed bugs
 - 2022.01.01 V3.40 : added LOG BOOK, click callsign at main screen -> ADD/DEL/ALL -> save to usrp_logbook.json
 - 2021.12.16 V3.30 : added 5 option choice and fixed bugs
