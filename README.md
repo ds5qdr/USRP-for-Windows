@@ -24,7 +24,7 @@
 - run USRP.exe
 - for more information, click https://ds5qdr-dv.tistory.com/224
 
-## how to edit usrp.ini
+## How to edit usrp.ini
 - see : http://dvswitch.org/DVSwitch_install.pdf
 - Appendix B: pyUC (python USRP Client)
 ![image](https://user-images.githubusercontent.com/64110724/134375327-b36d3c95-b887-4ac5-82a7-c5c620e5acfe.png)
