@@ -1,10 +1,10 @@
-# USRP-for-Windows 10 or 11 with Logbook
+## USRP-for-Windows 10 or 11 with Logbook
 - Version : V3.90
 - Updated Date : 2023.01.30
 - Programmed by DS5QDR Lee, Hoenmin
 
 
-# History
+## History
 - 2023.01.30 V3.90 : Simplify USRP Client UI
 - 2022.11.07 V3.70 : upgraded some fucntions and fixed bugs
 - 2022.01.01 V3.40 : added LOG BOOK, click callsign at main screen -> ADD/DEL/ALL -> save to usrp_logbook.json
@@ -17,22 +17,21 @@
 - 2021.01.04 V1.00 : USRP Client Released for Windows
 - 2020.12.16 V0.95 : pyUC.py compiled to pyUC.exe
 
-# How to setup
+## How to setup
 - download USRP-for-Windows-main.zip
 - unzip
 - edit usrp.ini
 - run USRP.exe
 - for more information, click https://ds5qdr-dv.tistory.com/224
 
-# how to edit usrp.ini
+## how to edit usrp.ini
 - see : http://dvswitch.org/DVSwitch_install.pdf
 - Appendix B: pyUC (python USRP Client)
 ![image](https://user-images.githubusercontent.com/64110724/134375327-b36d3c95-b887-4ac5-82a7-c5c620e5acfe.png)
 
 
-# DS5QDR Lee, Heonmin
+## DS5QDR Lee, Heonmin
 ![image](https://user-images.githubusercontent.com/64110724/177042289-1c622f28-0b08-4dd9-9af1-acce6b85719f.png)
-
 ![image](https://user-images.githubusercontent.com/64110724/139769603-f42fc40e-5d56-472e-b3df-74af970e5c04.png)
 ![image](https://user-images.githubusercontent.com/64110724/139767788-b128b603-d6a0-4282-9933-1aa0a8bc4c06.png)
 ![image](https://user-images.githubusercontent.com/64110724/139768191-90c9b12e-06d7-402c-ade0-124f866f540c.png)
