@@ -23,7 +23,7 @@
 - unzip
 - edit usrp.ini
 - run USRP.exe
-- for more information, click https://ds5qdr-dv.tistory.com/224
+- for more information, click https://ds5qdr-dv.tistory.com/417
 
 ## How to edit usrp.ini
 - see : http://dvswitch.org/DVSwitch_install.pdf
