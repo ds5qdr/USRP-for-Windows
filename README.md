@@ -1,11 +1,11 @@
 ## USRP-for-Windows 10 or 11 with Logbook
-- Version : V3.951
-- Updated Date : 2023.04.21
+- Version : V3.963
+- Updated Date : 2023.09.06
 - Programmed by DS5QDR Lee, Hoenmin
 
 
 ## History
-- 2023-04-21 V3.951: fixed bugs and updated
+- 2023.04.21 V3.95 : fixed bugs and updated
 - 2023.01.30 V3.90 : Simplify USRP Client UI
 - 2022.11.07 V3.70 : upgraded some fucntions and fixed bugs
 - 2022.01.01 V3.40 : added LOG BOOK, click callsign at main screen -> ADD/DEL/ALL -> save to usrp_logbook.json
@@ -23,7 +23,7 @@
 - unzip
 - edit usrp.ini
 - run USRP.exe
-- for more information, click https://ds5qdr-dv.tistory.com/224
+- for more information, click https://ds5qdr-dv.tistory.com/417
 
 ## How to edit usrp.ini
 - see : http://dvswitch.org/DVSwitch_install.pdf
@@ -32,10 +32,9 @@
 
 
 ## DS5QDR Lee, Heonmin
-![image](https://user-images.githubusercontent.com/64110724/177042289-1c622f28-0b08-4dd9-9af1-acce6b85719f.png)
-![image](https://user-images.githubusercontent.com/64110724/139769603-f42fc40e-5d56-472e-b3df-74af970e5c04.png)
-![image](https://user-images.githubusercontent.com/64110724/139767788-b128b603-d6a0-4282-9933-1aa0a8bc4c06.png)
-![image](https://user-images.githubusercontent.com/64110724/139768191-90c9b12e-06d7-402c-ade0-124f866f540c.png)
-![image](https://user-images.githubusercontent.com/64110724/139768448-920d5901-2600-4dba-8311-ebd70a48f25a.png)
-![image](https://user-images.githubusercontent.com/64110724/139768977-3315f195-a05b-4229-be9a-9b06479808e8.png)
-
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/edb78a74-51c9-49bd-9e0e-0f9f846280ab)
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/59a3d46e-6fad-4270-9db4-e26d648176fe)
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/a2f02d1c-c895-4532-87b0-506f21e224d2)
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/468ac13f-c708-4638-b61f-8180150e79a7)
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/5ffef67b-294f-4482-a8d6-5c29e8456644)
+![image](https://github.com/ds5qdr/USRP-for-Windows/assets/64110724/93e61204-2499-48a1-a6bc-9c2db027ed9f)
