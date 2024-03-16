@@ -4,7 +4,7 @@
 - Programmed by DS5QDR Lee, Hoenmin
 - USRP.exe USRP10.exe <--- for Windows 10
 - USRP11.exe <--- for Windows 11
-- rename USRP10.exe and USRP11.exe to USRP.exe 
+- rename USRP10.exe, USRP11.exe to USRP.exe and run USRP.exe
 
 ## History
 - 2023.04.21 V3.95 : fixed bugs and updated
