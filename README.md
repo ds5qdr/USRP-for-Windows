@@ -7,7 +7,7 @@
 - rename USRP10.exe, USRP11.exe to USRP.exe and run USRP.exe
 
 ## History
-- 2024.03.17 V3.980 : fixed bugs and updated
+- 2024.03.17 V3.980 : It's probably the final version
 - 2023.04.21 V3.95 : fixed bugs and updated
 - 2023.01.30 V3.90 : Simplify USRP Client UI
 - 2022.11.07 V3.70 : upgraded some fucntions and fixed bugs
