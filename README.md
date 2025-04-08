@@ -1,8 +1,8 @@
 ## USRP-for-Windows with Logbook
 - Version : V4.00
-- Updated Date : 2024.04.18
-- Programmed by DS5QDR Lee, Hoenmin
-- USRP.exe <--- for Windows 10
+- Updated Date : 2025.04.08.
+- Programmed by DS5QDR Hoenmin Lee in Gimhae, Korea
+- USRP.exe <--- for Windows
 
 ## History
 - 2025-04-08 V4.00 : Final Version. 
